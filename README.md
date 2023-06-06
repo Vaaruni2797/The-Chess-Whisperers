@@ -15,4 +15,4 @@ Run the whole notebook DataAnalysis_Chess.ipynb for patterns discovered from dat
 Run the whole notebook PredictingOutcome_Chess.ipynb to see how all features can be used to predict the outcome of the game!
 
 Team behind this:
-Vaaruni Desai, Juhwan Kim, Selamawit Damte
+Vaaruni Desai, Juhwan Kim
